@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019092998160",
+    "project_id": "biqr-6e629",
+    "storage_bucket": "biqr-6e629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019092998160:android:0d98454031b28a7ed75295",
+        "android_client_info": {
+          "package_name": "com.biqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdDINaffo2O1eYRd5341vwvxwN2_0u5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
