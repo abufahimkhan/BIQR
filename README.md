@@ -8,6 +8,22 @@ carefully developed to meet the urgent demand for increased security, efficiency
 and accuracy in law enforcement agencies. It does this by utilizing real-time
 database integration and state-of-the-art Optical Character Recognition (OCR)
 technology.
+Our proposed system is a secure, efficient, and eco-friendly process for verifying
+vehicle documents. With real-time access to vehicle information and documents, law
+enforcement officers can quickly and accurately identify vehicles that violate traffic regulations, while drivers can enjoy a hassle-free and streamlined
+experience. This system not only improves efficiency and accuracy but also supports
+sustainable development goals by reducing paper usage and wastage. We aim to
+1. Verify a vehicle's papers in a less time-consuming process.
+2. Provide a hassle-free driving experience.
+3. Design and develop a user-friendly, efficient, and secure system.
+
+15
+4. Prevent on-road corruption during the vehicle's paper verification process.
+5. Reduce the risk of fraud and forgery.
+6. Provide real-time access to vehicle information and documents traffic
+policeman parties.
+7. Reduce the administrative burden with paper-based document verification
+processes.
 
 The BIQR mobile app has developed into a powerful tool capable of automating the
 verification of driver documents, car registrations, insurance papers, and other
@@ -19,10 +35,10 @@ applications of BIQR, emphasizing how it may improve traffic safety, law
 enforcement effectiveness, and compliance with regulations.
 
 The report also addresses the difficulties encountered when developing the app,
-including the tactics used to go above these barriers and improve the software.This
+including the tactics used to go above these barriers and improve the software.Our
 study paper offers insightful information about the transformative potential of
 technology in the field of law enforcement, in addition to showcasing the technical
-the expertise involved in producing the BIQR mobile app. This study adds crucial
+the expertise involved in producing the BIQR mobile app. Our study adds crucial
 knowledge of the subject of law enforcement technology by giving a thorough
 explanation of the development process, difficulties encountered, and results
 attained.
