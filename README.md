@@ -1,6 +1,7 @@
 The application was developed (Traffic assistant system) for vehicle paper management, and verification of the license, tax token, and registration card by generating a QR-Code., also the application comes with the police for scanning and validating data and the user administration. My teammates helped me to organize ideas and paper writing. The whole project is developed by myself. Find final thesis paper details: Capstone 400 C(BIQR) report.docx
 
-This research paper presents the comprehensive development and implementation
+Under the authorization and validation of the project by East West University, Aftabnagar, Dhaka, Bangladesh,
+the research paper [Capstone 400 C(BIQR) report.docx] presents the comprehensive development and implementation
 of BIQR, an innovative mobile application designed to transform the landscape of
 law enforcement document verification processes. The BIQR mobile app was
 carefully developed to meet the urgent demand for increased security, efficiency,
