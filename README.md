@@ -16,8 +16,6 @@ sustainable development goals by reducing paper usage and wastage. We aim to
 1. Verify a vehicle's papers in a less time-consuming process.
 2. Provide a hassle-free driving experience.
 3. Design and develop a user-friendly, efficient, and secure system.
-
-15
 4. Prevent on-road corruption during the vehicle's paper verification process.
 5. Reduce the risk of fraud and forgery.
 6. Provide real-time access to vehicle information and documents traffic
