@@ -1,3 +1,32 @@
+This is the thesis report of my project. My teammates helped me to organize ideas and paper writing. The whole project is developed by myself. Find paper details: Capstone 400 C(BIQR) report.docx
+Abstract:
+This research paper presents the comprehensive development and implementation
+of BIQR, an innovative mobile application designed to transform the landscape of
+law enforcement document verification processes. The BIQR mobile app was
+carefully developed to meet the urgent demand for increased security, efficiency,
+and accuracy in law enforcement agencies. It does this by utilizing real-time
+database integration and state-of-the-art Optical Character Recognition (OCR)
+technology.
+
+The BIQR mobile app has developed into a powerful tool capable of automating the
+verification of driver documents, car registrations, insurance papers, and other
+documents via rigorous testing and iterative development. Hence minimizing
+mistakes and significantly reducing the amount of human labor. An extensive
+examination of the app&#39;s effects on law enforcement activities is included in this
+report. Case studies from the real world and user comments demonstrate the useful
+applications of BIQR, emphasizing how it may improve traffic safety, law
+enforcement effectiveness, and compliance with regulations.
+
+The report also addresses the difficulties encountered when developing the app,
+including the tactics used to go above these barriers and improve the software.This
+study paper offers insightful information about the transformative potential of
+technology in the field of law enforcement, in addition to showcasing the technical
+the expertise involved in producing the BIQR mobile app. This study adds crucial
+knowledge of the subject of law enforcement technology by giving a thorough
+explanation of the development process, difficulties encountered, and results
+attained.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
