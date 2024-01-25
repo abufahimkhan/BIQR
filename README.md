@@ -1,5 +1,5 @@
 This is the thesis report of my project. My teammates helped me to organize ideas and paper writing. The whole project is developed by myself. Find paper details: Capstone 400 C(BIQR) report.docx
-Abstract:
+
 This research paper presents the comprehensive development and implementation
 of BIQR, an innovative mobile application designed to transform the landscape of
 law enforcement document verification processes. The BIQR mobile app was
